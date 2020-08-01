@@ -39,7 +39,7 @@ function GenMap(size,t,p)
 end
 
 function PrintMap()
-	local str="┌"
+	local str="\27[1;1H┌"
 	for i=1,MapSize do
 		str=str.."─"
 	end
