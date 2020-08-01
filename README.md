@@ -3,17 +3,6 @@ An assortment of old programs
 
 
 
-## PathFind
-
-[![asciicast](https://asciinema.org/a/mcIz7iVlI9FAUBMTSIjfttvcb.svg)](https://asciinema.org/a/mcIz7iVlI9FAUBMTSIjfttvcb)
-
-A* pathfinding implemented in lua.
-Maps are randomly generated using a voronoi method with an non-linear distance function, which gives it a a more unique appearance.
-
-Terminal capture hosted by asciinema.org.
-
-
-
 ## Destack
 
 ![Screenshot of a Destack game in progress](/DestackScreenshot.png)
@@ -43,3 +32,14 @@ A more presentable version of "Destack" with sound effects and animations, with 
 Features that were planned:
 - Help and options menu on ? button.
 - Suit colour picker for colour blind accessibility and customisation
+
+
+
+## PathFind
+
+[![asciicast](https://asciinema.org/a/mcIz7iVlI9FAUBMTSIjfttvcb.svg)](https://asciinema.org/a/mcIz7iVlI9FAUBMTSIjfttvcb)
+
+A* pathfinding implemented in lua.
+Maps are randomly generated using a voronoi method with an non-linear distance function, which gives it a a more unique appearance.
+
+Terminal capture hosted by asciinema.org.
